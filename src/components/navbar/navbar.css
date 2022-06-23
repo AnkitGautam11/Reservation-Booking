@@ -27,3 +27,7 @@
   border-radius: 5px;
   color: rgb(255, 255, 255);
 }
+
+.navButton:hover{
+  transform: scale(1.1);
+}

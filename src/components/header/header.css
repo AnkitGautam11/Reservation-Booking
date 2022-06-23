@@ -47,6 +47,10 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
+.headerBtn:hover {
+  transform: scale(1.1);
+}
   
 .headerSearch {
   height: 30px;
@@ -62,6 +66,10 @@
   width: 100%;
   max-width: 1024px;
 }
+
+.headerSearch {
+  transform: scale(1.1);
+}  
   
 .headerIcon {
   color: lightgray;
